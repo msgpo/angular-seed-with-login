@@ -1,3 +1,13 @@
+# tl;dr
+
+```
+npm install
+bower install
+npm start
+```
+
+move /server folder to your server, this is where the php files are
+
 # angular-seed — the seed for AngularJS apps
 
 This project is an application skeleton for a typical [AngularJS](http://angularjs.org/) web app.
